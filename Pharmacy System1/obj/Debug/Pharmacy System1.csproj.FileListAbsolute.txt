@@ -1,0 +1,14 @@
+E:\New folder\Pharmacy System1\Pharmacy System1\bin\Debug\Pharmacy System1.exe
+E:\New folder\Pharmacy System1\Pharmacy System1\bin\Debug\Pharmacy System1.pdb
+E:\New folder\Pharmacy System1\Pharmacy System1\bin\Debug\Guna.UI2.dll
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy System1.csproj.AssemblyReference.cache
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy_System1.Form1.resources
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy_System1.Properties.Resources.resources
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy System1.csproj.GenerateResource.cache
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy System1.csproj.CoreCompileInputs.cache
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy.DAFDDD4F.Up2Date
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy System1.exe
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy System1.pdb
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy_System1.Adminstraitor.resources
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy_System1.AdminstraitorUC.UC_Dashbord.resources
+E:\New folder\Pharmacy System1\Pharmacy System1\obj\Debug\Pharmacy_System1.AdminstraitorUC.UC_AddUser.resources
